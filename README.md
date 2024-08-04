@@ -1,4 +1,4 @@
-## 👋 Hello, Welcome to Magda Jankowska`s profile!
+## 👋 Hello there, I am  Magda Jankowska
 
 🔒 Security Researcher | 🌐 Web3 Enthusiast | 🛡️ Ethical Hacker
 
