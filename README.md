@@ -1,13 +1,12 @@
 ## 👋 Hello there, I am  Magda Jankowska
 
-🔒 Security Researcher | 🌐 Web3 Enthusiast | 🛡️ Ethical Hacker
+🔒 Security Researcher | 🌐 Web3 | 🛡️ Ethical Hacker
 
 With a deep passion for securing the digital frontier, I am a seasoned Security Researcher specializing in Web3 technologies and cybersecurity. 
 My expertise lies in identifying vulnerabilities, conducting comprehensive security audits, and implementing robust defenses to protect decentralized applications and blockchain infrastructures.
 
 🔍 What I Do
 + Web3 Security Research: Diving into the intricacies of decentralized technologies to uncover potential security flaws and develop innovative solutions to safeguard smart contracts and blockchain ecosystems.
-+ Ethical Hacking: Utilizing a wide range of ethical hacking techniques to simulate cyber attacks, identify vulnerabilities, and recommend actionable security measures to strengthen system defenses.
 + Security Tool Development: Creating and contributing to open-source security tools that help the community identify and mitigate risks in Web3 and traditional cybersecurity landscapes.
 
 🌟 Key Contributions
