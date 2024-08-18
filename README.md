@@ -15,7 +15,19 @@
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Medium Blog](https://img.shields.io/badge/Medium-Blog-03A87C?style=for-the-badge&logo=medium&logoColor=white)
+![Chainlink](https://img.shields.io/badge/Chainlink-Integrated-3751FF?style=for-the-badge&logo=chainlink&logoColor=white)
+![zkSync](https://img.shields.io/badge/zkSync-Supported-2C3E50?style=for-the-badge&logo=zksync&logoColor=white)
+
 
 ![image](https://github.com/user-attachments/assets/bce8dd5a-562d-4acf-b84e-a3281aa38ac4)
+
+![image](https://github.com/user-attachments/assets/79be112a-1037-4f58-b38e-0879f8b46318)
+
+![image](https://github.com/user-attachments/assets/24750c9b-a717-4f85-9d72-bf82b0a69bc9)
+
+
+
+
+
 
 
