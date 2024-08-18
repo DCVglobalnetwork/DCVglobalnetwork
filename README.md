@@ -25,6 +25,10 @@
 
 ![image](https://github.com/user-attachments/assets/24750c9b-a717-4f85-9d72-bf82b0a69bc9)
 
+![image](https://github.com/user-attachments/assets/4dc9adff-9144-41ec-872f-b3b80690614e)
+
+
+[Challenge 1 — Walkthrough Damn Vulnerable DeFi 2024](https://medium.com/@maria.magdalena.makeup/challenge-1-walkthrough-damn-vulnerable-defi-2024-ef3b87c7340a)
 
 
 
