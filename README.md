@@ -2,25 +2,8 @@
 
 🔒 Security Researcher | 🌐 Web3 | 🛡️ Ethical Hacker
 
-With a deep passion for securing the digital frontier, I am a seasoned Security Researcher specializing in Web3 technologies and cybersecurity. 
-My expertise lies in identifying vulnerabilities, conducting comprehensive security audits, and implementing robust defenses to protect decentralized applications and blockchain infrastructures.
+![Screenshot 2024-02-22 110733](https://github.com/user-attachments/assets/5f837952-3573-4e79-ab6b-29e5e4ef1d4d)
 
-🔍 What I Do
-+ Web3 Security Research: Diving into the intricacies of decentralized technologies to uncover potential security flaws and develop innovative solutions to safeguard smart contracts and blockchain ecosystems.
-+ Security Tool Development: Creating and contributing to open-source security tools that help the community identify and mitigate risks in Web3 and traditional cybersecurity landscapes.
-
-🌟 Key Contributions
-+ Vulnerability Research: Discovered critical vulnerabilities in popular decentralized applications, contributing to the enhancement of their security frameworks.
-+ Security Publications: Authored detailed reports and articles on emerging security threats and mitigation strategies in the Web3 space.
-+ Community Engagement: Actively participating in security forums, hackathons, and conferences, sharing knowledge and collaborating with peers to advance the field of cybersecurity.
-
-🚀 Projects & Research
-
-Check out my repositories for some of the cutting-edge projects and research I've been working on:
-
-+ 🔗 Web3 Security Tools: A collection of tools designed to enhance the security of decentralized applications.
-+ 📄 Ethical Hacking Scripts: Scripts and resources for penetration testing and vulnerability assessment.
-+ 🛠️ Security Frameworks: Custom security frameworks tailored for blockchain and traditional cybersecurity.
 
 ## Languages and Tools
 
@@ -31,3 +14,8 @@ Check out my repositories for some of the cutting-edge projects and research I'v
 ![Metasploit](https://img.shields.io/badge/Metasploit-1572B6?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6F00?style=for-the-badge&logo=burp-suite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Medium Blog](https://img.shields.io/badge/Medium-Blog-03A87C?style=for-the-badge&logo=medium&logoColor=white)
+
+![image](https://github.com/user-attachments/assets/bce8dd5a-562d-4acf-b84e-a3281aa38ac4)
+
+
