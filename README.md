@@ -1,6 +1,6 @@
 ## 👋 Hello there, I am  Magda Jankowska
 
-🔒 Security Researcher | 🌐 Web3 | 🛡️ Ethical Hacker
+🔒 Security Researcher | 🌐 Web3 | 🛡️ 
 
 ![Screenshot 2024-02-22 110733](https://github.com/user-attachments/assets/5f837952-3573-4e79-ab6b-29e5e4ef1d4d)
 
