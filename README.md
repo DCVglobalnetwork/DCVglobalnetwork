@@ -5,7 +5,7 @@ I'm a Solidity developer and smart contract security researcher focused on secur
 🌟 What I Do
 
 Blockchain & Security: Specialize in smart contracts, tokenization, zkSync, and Web3 security.
-Cybersecurity: Learning Nmap 
+Cybersecurity
 
 🚀 Current Projects
 
