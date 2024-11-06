@@ -1,7 +1,5 @@
 ## 👋 Hello there, I am  Magda Jankowska
 
-I'm a Solidity developer and smart contract security researcher focused on secure and scalable Web3 solutions.
-
 🚀 Current Projects
 
 Real Estate Tokenization | Financial Tokenized Calculator | Jackpot with Chainlink VRF
