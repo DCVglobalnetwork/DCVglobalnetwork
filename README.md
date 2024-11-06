@@ -1,9 +1,25 @@
 ## 👋 Hello there, I am  Magda Jankowska
 
-🔒 Security Researcher | 🌐 Web3 | 🛡️ 
+I'm a Solidity developer and smart contract security researcher focused on secure and scalable Web3 solutions.
 
-![Screenshot 2024-02-22 110733](https://github.com/user-attachments/assets/5f837952-3573-4e79-ab6b-29e5e4ef1d4d)
+🌟 What I Do
 
+Blockchain & Security: Specialize in smart contracts, tokenization, zkSync, and Web3 security.
+Cybersecurity: Learning Nmap 
+
+🚀 Current Projects
+
+Real Estate Tokenization | Financial Tokenized Calculator | Jackpot with Chainlink VRF
+
+📝 Articles & Writing
+
+“Blob Gas Unleashed: Optimize Your Company’s Blockchain Data”
+
+“How to Tokenize Real Estate with Custom Smart Contracts”
+
+📫 Connect
+
+ **LinkedIn**: [Magda Jankowska](https://www.linkedin.com/in/magda-jankowska-63a26558/)
 
 ## Languages and Tools
 
@@ -31,6 +47,9 @@
 ![image](https://github.com/user-attachments/assets/24750c9b-a717-4f85-9d72-bf82b0a69bc9)
 
 ![image](https://github.com/user-attachments/assets/4dc9adff-9144-41ec-872f-b3b80690614e)
+
+![image](https://github.com/user-attachments/assets/e64e267a-4321-4c2a-b7f1-d0bd70310b2d)
+
 
 [Challenge 1 — Walkthrough Damn Vulnerable DeFi 2024](https://medium.com/@maria.magdalena.makeup/challenge-1-walkthrough-damn-vulnerable-defi-2024-ef3b87c7340a)
 
