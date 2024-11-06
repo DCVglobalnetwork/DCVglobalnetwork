@@ -2,11 +2,6 @@
 
 I'm a Solidity developer and smart contract security researcher focused on secure and scalable Web3 solutions.
 
-🌟 What I Do
-
-Blockchain & Security: Specialize in smart contracts, tokenization, zkSync, and Web3 security.
-Cybersecurity
-
 🚀 Current Projects
 
 Real Estate Tokenization | Financial Tokenized Calculator | Jackpot with Chainlink VRF
@@ -16,6 +11,8 @@ Real Estate Tokenization | Financial Tokenized Calculator | Jackpot with Chainli
 “Blob Gas Unleashed: Optimize Your Company’s Blockchain Data”
 
 “How to Tokenize Real Estate with Custom Smart Contracts”
+
+[Challenge 1 — Walkthrough Damn Vulnerable DeFi 2024](https://medium.com/@maria.magdalena.makeup/challenge-1-walkthrough-damn-vulnerable-defi-2024-ef3b87c7340a)
 
 📫 Connect
 
@@ -48,10 +45,17 @@ Real Estate Tokenization | Financial Tokenized Calculator | Jackpot with Chainli
 
 ![image](https://github.com/user-attachments/assets/4dc9adff-9144-41ec-872f-b3b80690614e)
 
+![image](https://github.com/user-attachments/assets/f2791efa-7d68-4923-983e-ae9494e144bf)
+
+![image](https://github.com/user-attachments/assets/a5509048-fb72-4179-bc7c-9bd25931a799)
+
+
 ![image](https://github.com/user-attachments/assets/e64e267a-4321-4c2a-b7f1-d0bd70310b2d)
 
+![image](https://github.com/user-attachments/assets/c5214151-3e37-491c-8ac6-1bc810aa9e46)
 
-[Challenge 1 — Walkthrough Damn Vulnerable DeFi 2024](https://medium.com/@maria.magdalena.makeup/challenge-1-walkthrough-damn-vulnerable-defi-2024-ef3b87c7340a)
+
+
 
 
 
