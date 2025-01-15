@@ -33,24 +33,6 @@ Real Estate Tokenization | Financial Tokenized Calculator | Jackpot with Chainli
 
 
 
-![image](https://github.com/user-attachments/assets/bce8dd5a-562d-4acf-b84e-a3281aa38ac4)
-
-![image](https://github.com/user-attachments/assets/79be112a-1037-4f58-b38e-0879f8b46318)
-
-![image](https://github.com/user-attachments/assets/34187e1e-1e36-4375-86ed-c506889a7dfe)
-
-![image](https://github.com/user-attachments/assets/24750c9b-a717-4f85-9d72-bf82b0a69bc9)
-
-![image](https://github.com/user-attachments/assets/4dc9adff-9144-41ec-872f-b3b80690614e)
-
-![image](https://github.com/user-attachments/assets/f2791efa-7d68-4923-983e-ae9494e144bf)
-
-![image](https://github.com/user-attachments/assets/a5509048-fb72-4179-bc7c-9bd25931a799)
-
-
-![image](https://github.com/user-attachments/assets/e64e267a-4321-4c2a-b7f1-d0bd70310b2d)
-
-![image](https://github.com/user-attachments/assets/c5214151-3e37-491c-8ac6-1bc810aa9e46)
 
 
 
