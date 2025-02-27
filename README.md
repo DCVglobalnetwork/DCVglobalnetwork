@@ -1,4 +1,5 @@
-## 👋 Hello there, I am  Magda Jankowska
+## 👋 Hello there, I am  Magda Jankowska 
+|Q V | Security Researcher for Web3 | In The Top 7% on TryHackMe | Chainlink
 
 🚀 Current Projects
 
