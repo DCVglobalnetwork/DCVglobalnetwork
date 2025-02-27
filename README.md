@@ -3,7 +3,7 @@
 
 🚀 Current Projects
 
-Real Estate Tokenization | Financial Tokenized Calculator | Jackpot with Chainlink VRF
+Real Estate Tokenization | Jackpot with Chainlink VRF
 
 📝 Articles & Writing
 
