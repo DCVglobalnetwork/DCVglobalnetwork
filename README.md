@@ -1,21 +1,38 @@
-## 👋 Hello there, I am  Magda Jankowska 
-|Q V | Security Researcher for Web3 | In The Top 7% on TryHackMe | Chainlink
+# Hey, I’m Magda 👋
 
-🚀 Current Projects
+Web3 security researcher & smart contract dev. Top 7% on TryHackMe. Chainlink enthusiast.
 
-Real Estate Tokenization | Jackpot with Chainlink VRF
+---
 
-📝 Articles & Writing
+### Currently working on
 
-“Blob Gas Unleashed: Optimize Your Company’s Blockchain Data”
+- Real estate tokenization  
+- Fair jackpots with Chainlink VRF
 
-“How to Tokenize Real Estate with Custom Smart Contracts”
+---
 
-[Challenge 1 — Walkthrough Damn Vulnerable DeFi 2024](https://medium.com/@maria.magdalena.makeup/challenge-1-walkthrough-damn-vulnerable-defi-2024-ef3b87c7340a)
+### Writing about
 
-📫 Connect
+- Blockchain gas optimization  
+- Real estate tokenization  
+- DeFi security challenges
 
- **LinkedIn**: [Magda Jankowska](https://www.linkedin.com/in/magda-jankowska-63a26558/)
+---
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/magdajankowska)
+
+---
+
+### Why follow me?
+
+I make smart contracts safer and simpler. If you care about secure Web3, you’re in the right place.
+
+---
+
+Let’s build cool stuff!
+
 
 ## Languages and Tools
 
