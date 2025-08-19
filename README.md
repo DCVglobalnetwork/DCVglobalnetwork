@@ -18,7 +18,7 @@
 
 ### Connect
 
-[LinkedIn](https://www.linkedin.com/in/magdajankowska)
+[LinkedIn](https://www.linkedin.com/in/magda-jankowska-63a26558/)
 
 ---
 
