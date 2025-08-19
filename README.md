@@ -7,7 +7,6 @@ Web3 security researcher & smart contract dev. Top 7% on TryHackMe. Chainlink Ad
 ### Currently working on
 
 - Real estate tokenization  
-- Fair jackpots with Chainlink VRF
 
 ---
 
