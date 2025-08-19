@@ -1,6 +1,6 @@
 # Hey, I’m Magda 👋
 
-Web3 security researcher & smart contract dev. Top 7% on TryHackMe. Chainlink enthusiast.
+Web3 security researcher & smart contract dev. Top 7% on TryHackMe. Chainlink Advocate.
 
 ---
 
