@@ -1,34 +1,25 @@
 # Hey, I’m Magda 👋
 
----
+## 🚀 Currently Building
+- **RealEstate Oracle** → tokenizing UK properties with Chainlink Functions  
+- **Research & Writing** → blockchain scalability, Web3 security, and real-world asset tokenization
 
-### Currently working on
+## 🔐 What I Care About
+- Secure smart contracts (audit-first mindset)  
+- Bringing **real estate and finance on-chain**  
+- Exploring how blockchain can make investing more open and efficient  
 
-- Real estate tokenization  
-
----
-
-### Writing about
-
+## ✍️ I Also Write About
+- Real estate tokenization use cases  
 - Blockchain gas optimization  
-- Real estate tokenization  
-- DeFi security challenges
+- Web3 adoption & security challenges  
 
----
+Find my work on [Medium](https://medium.com/@maria.magdalena.makeup)
 
-### Connect
+## 🌐 Connect
+- [LinkedIn](https://www.linkedin.com/in/magda-jankowska-63a26558/)
+- [Devfolio Project](https://devfolio.co/projects/realestate-oracle-tokenizing-uk-property-data-with-chainlink-functions-5c57)  
 
-[LinkedIn](https://www.linkedin.com/in/magda-jankowska-63a26558/)
-
----
-
-### Why follow me?
-
-I make smart contracts safer and simpler. If you care about secure Web3, you’re in the right place.
-
----
-
-Let’s build cool stuff!
 
 
 ## Languages and Tools
