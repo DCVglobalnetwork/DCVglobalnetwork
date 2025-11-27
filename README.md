@@ -20,6 +20,7 @@ Find my work on [Medium](https://medium.com/@maria.magdalena.makeup)
 - [LinkedIn](https://www.linkedin.com/in/magda-jankowska-63a26558/)
 - [Devfolio Project](https://devfolio.co/projects/realestate-oracle-tokenizing-uk-property-data-with-chainlink-functions-5c57)  
 
+<img width="787" height="101" alt="image" src="https://github.com/user-attachments/assets/a78d8712-c4be-40d7-aa75-881d7856538b" />
 
 
 ## Languages and Tools
